@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = (game:GetService("Players").kusse88.Character.HumanoidRootPart.Position)
+game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(game:GetService("Players").kusse88.Character.HumanoidRootPart.Position)
