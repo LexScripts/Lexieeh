@@ -1,2 +1,1 @@
-Newpos = CFrame.New(-999, -999, -999)
-game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = Newpos
+game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = (game:GetService("Players").kusse88.Character.HumanoidRootPart.Position)
