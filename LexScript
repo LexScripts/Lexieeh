@@ -1,0 +1,2 @@
+NewPos = CFrame.new(4282.53, -5.89, -1794.64)
+game:GetService("Players").LocalPlayer.Character.HumanoidRootPart.CFrame = NewPos
